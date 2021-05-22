@@ -21,11 +21,14 @@
 
 ## Starred views
 
-- Star queries to pin them to the side
+- Star documents to pin them to the side
 
 ## Analysis
 
 - Automatically generate JSON Schema and TypeScript interface
-- Set collection validator
+- Set up collection validators
 
-![image](https://user-images.githubusercontent.com/2636763/114721340-d3942c80-9d06-11eb-9c9f-ef8ecce5db98.png)
+![1](https://user-images.githubusercontent.com/2636763/119210889-e96edd00-ba7c-11eb-8f7b-d80350eb7c50.png)
+![2](https://user-images.githubusercontent.com/2636763/119210891-ea077380-ba7c-11eb-9004-95c0727cb5df.png)
+![3](https://user-images.githubusercontent.com/2636763/119210893-eaa00a00-ba7c-11eb-852f-0c5810b25d56.png)
+![4](https://user-images.githubusercontent.com/2636763/119210894-eaa00a00-ba7c-11eb-936b-b4939679f1d4.png)
