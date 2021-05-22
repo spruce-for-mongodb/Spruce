@@ -1,4 +1,4 @@
-# 🌲 The reimagined GUI for MongoDB.
+# 🌲 Reimagined MongoDB GUI
 
 ## Basics
 
