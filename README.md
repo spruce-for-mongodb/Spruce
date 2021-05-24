@@ -1,4 +1,8 @@
-# 🌲 Reimagined MongoDB GUI
+# Spruce · Reimagined MongoDB GUI
+
+- [Getting Started](https://github.com/spruce-app/Spruce/discussions/2)
+- [Need Help?](https://github.com/spruce-app/Spruce/discussions/4)
+- [Privacy Policy](https://github.com/spruce-app/Spruce/blob/main/PRIVACY_POLICY.md)
 
 ## Basics
 
