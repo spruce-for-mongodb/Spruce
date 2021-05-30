@@ -1,4 +1,6 @@
-# Reimagined MongoDB GUI
+# Spruce for MongoDB
+
+🍎 **Get the app on the [Mac App Store](https://apps.apple.com/us/app/spruce-reimagined-mongodb-gui/id1567985381)**
 
 - [Getting Started](https://github.com/spruce-app/Spruce/discussions/2)
 - [Need Help?](https://github.com/spruce-app/Spruce/discussions/4)
