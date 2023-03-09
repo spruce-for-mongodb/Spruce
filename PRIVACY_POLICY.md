@@ -1,1 +1,1 @@
-https://spruce.pierluc.io/privacy-policy.html
+https://spruce.pierluc.io/privacy-policy
